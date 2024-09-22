@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pad39a
-- 👀 I’m interested in learning basic search engine development
-- 🌱 I’m currently learning mysql, fuse.js, typesense
-- 💞️ I’m looking to collaborate on a part number search engines for my startup company 
+- I use Solidaworks for Mechanical and Altium for PCBs
+- I write basic code for embedded systems w/ Cortex processers
+- 🌱 I’m currently learning mysql
 - 📫 How to reach me parters@pad39a.org
 
 <!---
