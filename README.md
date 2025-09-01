@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pad39a
-- I use Solidaworks for Mechanical and Altium for PCBs
+- I use Solidworks for Mechanical and Altium for PCBs
 - I write basic code for embedded systems w/ Cortex processers
 - 🌱 I’m currently learning mysql
 - 📫 How to reach me partners@pad39a.org
